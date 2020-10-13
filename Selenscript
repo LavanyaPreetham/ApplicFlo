@@ -1,0 +1,9 @@
+
+Class sec
+{
+Public static void main(string args[])
+{
+  System.out.println(“hii”);
+  System.out.println("executed git file"); 
+}
+}
